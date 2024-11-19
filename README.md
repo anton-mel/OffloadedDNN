@@ -65,4 +65,4 @@ INTERESTING IMPOROVEMENT: In a concurrent setup where the server handles images,
 
 ### Results
 
-![PROOF Part3](./part3/PROOF.png)
+![PROOF Part3](./PROOF.png)
