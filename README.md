@@ -9,7 +9,7 @@ This project involves optimizing the flow of video capture and DNN (Deep Neural 
 
 The key goals of this project are to:
 1. Offload DNN inference to a more powerful remote server.
-2. Minimize memory access overheads by reducing the number of kernel-user boundary crossings during image capture.
+2. Minimize memory access overheads by reducing the number of kernel-user boundary crossings.
 3. Optimize the system for performance, ensuring the client can handle high frame rates.
 
 ### General Structure
