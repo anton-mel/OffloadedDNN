@@ -2,7 +2,7 @@
 
 ### Overview
 
-This work involves optimizing the flow of video capture and DNN (Deep Neural Network) inference in a resource-constrained environment. The system is split into two components running over a TCP connection: the local client component captures images from the camera, sends them to a remote server for inference, and displays the results; the remote server component performs the DNN inference using TensorFlow Lite, processes the images, and sends back the results.
+This open-source project is part of the Ukraine Drone R&D initiative, focused on optimizing video capture and deep neural network (DNN) inference in resource-constrained embedded environments. The system is split into two components running over a TCP connection: the local client component captures images from the camera, sends them to a remote server for inference, and displays the results; the remote server component performs the DNN inference using TensorFlow Lite, processes the images, and sends back the results.
 
 The key goals of this project are to:
 1. Offload DNN inference to a more powerful remote server.
