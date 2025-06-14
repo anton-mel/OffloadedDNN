@@ -1,7 +1,4 @@
-# Reducing Memory Access Across Kernel-User Boundary
-
-**Date:** November 1st  
-**Author:** Anton Melnychuk
+# Reducing Memory Access Across Kernel-User Boundary v.1
 
 ### Overview
 
